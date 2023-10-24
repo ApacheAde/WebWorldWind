@@ -6,10 +6,12 @@
 
 .idea/workspace.xml
 
-build/
+build/horizon
 
 nasaworldwind-worldwind-*.tgz
 
 node_modules/
 
 npm-debug.log
+
+
